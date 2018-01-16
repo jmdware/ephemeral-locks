@@ -21,20 +21,20 @@ Add these dependency coordinates, or an equivalent, to your project to begin usi
 <dependency>
     <groupId>org.jmdware</groupId>
     <artifactId>ephemeral-locks</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
 *gradle*
 
 ```
-compile "org.jmdware:ephemeral-locks:1.0.0-SNAPSHOT"
+compile "org.jmdware:ephemeral-locks:1.0.0"
 ```
 
 *leiningen*
 
 ```
-[org.jmdware/ephemeral-locks "1.0.0-SNAPSHOT"]
+[org.jmdware/ephemeral-locks "1.0.0"]
 ```
 
 # Usage
