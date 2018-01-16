@@ -6,7 +6,7 @@
 
     <groupId>org.jmdware</groupId>
     <artifactId>ephemeral-locks</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0-SNAPSHOT</version>
 
     <name>Ephemeral Locks</name>
     <description>Library for allowing concurrent execution of critical sections based on a key.</description>
